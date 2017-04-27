@@ -1,0 +1,50 @@
+<head>
+    <title>Flask Framework Based Appliance Control</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<form action="/energize" method="POST">
+	<table>
+		<tr>
+			<td>
+				<input type="checkbox" name="relay" value="relay_0">Motor</input> </br>
+			</td>
+			<td>
+				<input type="radio" name="state_0" value="On">On</input>
+ 				<input type="radio" name="state_0" value="Off" checked="checked">Off</input>	 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="checkbox" name="relay" value="relay_1">Tank Light 1</input> </br>
+			</td>
+			<td>
+				<input type="radio" name="state_1" value="On">On</input>
+ 				<input type="radio" name="state_1" value="Off" checked="checked">Off</input>	 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="checkbox" name="relay" value="relay_2">Tank Light 2</input></br>
+			</td>
+			<td>
+				<input type="radio" name="state_2" value="On">On</input>
+ 				<input type="radio" name="state_2" value="Off" checked="checked">Off</input>	 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="checkbox" name="relay" value="relay_3">Submersible Pump</input></br>
+			</td>
+			<td>
+				<input type="radio" name="state_3" value="On">On</input>
+ 				<input type="radio" name="state_3" value="Off" checked="checked">Off</input>	 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="submit" value="Energize" class="button">
+			</td>
+		</tr>
+	</table>
+</form>

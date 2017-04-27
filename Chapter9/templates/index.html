@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Raspberry Pi Zero Robot</title>
+  </head>
+
+  <body>
+  	<iframe id="stream" src="http://192.168.86.111:8081/?action=stream" width="320" height="240"></iframe>
+  	<table style="width:100%; max-width: 500px; height:300px;">
+			<tr>
+				<td>
+					<form action="/forward" method="POST">
+						<input type="submit" value="forward" style="float:left; width:80% ;">
+						</br>
+					</form>
+				</td>
+				<td>
+					<form action="/reverse" method="POST">
+						<input type="submit" value="reverse" style="float:left; width:80% ;">
+						</br>
+					</form>
+				</td>
+				<td>
+					<form action="/left" method="POST">
+						<input type="submit" value="left" style="float:left; width:80% ;">
+						</br>
+					</form>
+				</td>
+				<td>
+					<form action="/right" method="POST">
+						<input type="submit" value="right" style="float:left; width:80% ;">
+						</br>
+					</form>
+				</td>
+
+			</tr>
+		</table>
+  </body>
+</html>
