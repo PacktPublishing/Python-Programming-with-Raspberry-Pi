@@ -13,6 +13,7 @@ The examples discussed in each chapter of this book culminate in a project that 
 ## Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter5
 
+
 The code will look like the following:
 
        
