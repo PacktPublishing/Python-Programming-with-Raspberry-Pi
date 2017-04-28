@@ -56,13 +56,13 @@ Software: (On a Windows environment): Putty (http://www.chiark.greenend.org.uk/~
 
 ## Related Products:
 
-* [Python Machine Learning]( https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_content=9781786467577 )
+* [Python Machine Learning]( https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_content=9781783555130 )
 
-* [Python Data Analysis]( https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis )
+* [Python Data Analysis]( https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis?utm_source=github&utm_medium=repository&utm_content=9781783553358 )
 
-* [BeagleBone Home Automation Blueprints]( https://www.packtpub.com/hardware-and-creative/beaglebone-home-automation-blueprints?utm_source=github&utm_medium=repository&utm_content=9781783986026 )
+* [Python Design Patterns [Video]]( https://www.packtpub.com/application-development/python-design-patterns-video?utm_source=github&utm_medium=repository&utm_content=9781786460677 )
 
-* [Building Networks and Servers Using BeagleBone]( https://www.packtpub.com/hardware-and-creative/building-networks-and-servers-using-beaglebone?utm_source=github&utm_medium=repository&utm_content=9781784390204 )
+* [Python: Penetration Testing for Developers]( https://www.packtpub.com/networking-and-servers/python-penetration-testing-developers?utm_source=github&utm_medium=repository&utm_content=9781787128187 )
 
 ### Suggestions and Feedback
 [Click here]( https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform ) if you have any feedback or suggestions.
