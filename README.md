@@ -14,6 +14,7 @@ The examples discussed in each chapter of this book culminate in a project that 
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter5
 
 The code will look like the following:
+
        
        static int ngpios;
        static int gpios[2] = { -1 , -1 };
@@ -24,6 +25,7 @@ The code will look like the following:
        /* Logging stuff */
        #define __message(level, fmt, args...)                                  \
                        printk(level "%s: " fmt "\n" , NAME , ## args)
+
 
 There are no code files for the following chapters:
 
